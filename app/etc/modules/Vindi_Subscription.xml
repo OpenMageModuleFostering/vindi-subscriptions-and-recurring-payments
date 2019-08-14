@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Vindi_Subscription>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Payment/>
+                <Mage_Adminhtml/>
+                <Mage_Sales/>
+            </depends>
+        </Vindi_Subscription>
+    </modules>
+</config>
