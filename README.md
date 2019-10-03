@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 A integração do módulo da Vindi permite criação e gestão de planos e assinaturas através do Magento de forma transparente.
