@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/vindi-subscriptions-and-recurring-payments",
+    "name": "OpenMageModuleFostering\/vindi-subscriptions-and-recurring-payments",
     "type": "magento-module",
     "license": "GPLv3",
     "homepage": "",
-    "description": "A integração do módulo da Vindi permite criação e gestão de planos e assinaturas através do Magento de forma transparente.",
+    "description": "A integra\u00e7\u00e3o do m\u00f3dulo da Vindi permite cria\u00e7\u00e3o e gest\u00e3o de planos e assinaturas atrav\u00e9s do Magento de forma transparente.",
     "authors": [
-    {
-        "name": "Vindi",
-        "email": "magento.tecnologia@vindi.com.br"
-    }
-],
+        {
+            "name": "Vindi",
+            "email": "magento.tecnologia@vindi.com.br"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
